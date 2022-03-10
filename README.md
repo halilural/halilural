@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halilural" alt="halilural" /></a> </p>
 
-- 🔭 I’m currently working on [spring-rest-best-practices](https://github.com/halilural/ApacheKafkaTraining)
+- 🔭 I’m currently working on [spring-rest-best-practices](https://github.com/halilural/rest-api-best-practices)
 
 - 👨‍💻 All of my projects are available at [halilural.com](halilural.com)
 
